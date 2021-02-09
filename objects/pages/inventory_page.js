@@ -16,6 +16,10 @@ export default class InventoryPage {
         this.#inventoryPageItem.addToCart();
     }
 
+    goToProductPage() {
+        this.#inventoryPageItem.goToProductPage();
+    }
+
     clickCart() {
         this.#cartButton.click();
     }
