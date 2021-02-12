@@ -13,7 +13,8 @@
 
 ## Usage
 
-1. Run console
+1. Run your console
+1. Clone the repo
 1. Go to the repo directory
 1. Run `npx wdio run wdio.conf.js`
 
